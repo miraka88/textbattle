@@ -1,0 +1,7 @@
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\TextBattle\TextBattle\bin\Debug\TextBattle.exe.config
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\TextBattle\TextBattle\bin\Debug\TextBattle.exe
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\TextBattle\TextBattle\bin\Debug\TextBattle.pdb
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\TextBattle\TextBattle\obj\Debug\TextBattle.csprojAssemblyReference.cache
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\TextBattle\TextBattle\obj\Debug\TextBattle.csproj.CoreCompileInputs.cache
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\TextBattle\TextBattle\obj\Debug\TextBattle.exe
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\TextBattle\TextBattle\obj\Debug\TextBattle.pdb
